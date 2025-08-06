@@ -1,4 +1,8 @@
-# 🦉 OWLIT Server Setup
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mradom/owlit/main/owlit-transparente.png" alt="OWLIT Logo" width="120"/>
+</p>
+
+# OWLIT Server Setup
 
 Este script instala y configura un servidor Ubuntu 24.04 limpio con todo lo necesario para alojar sitios modernos con PHP, WordPress o Laravel, siguiendo buenas prácticas de seguridad y performance. Inspirado en Laravel Forge, pero 100% libre, personalizable y orientado a la excelencia técnica.
 
